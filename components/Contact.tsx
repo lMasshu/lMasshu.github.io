@@ -224,7 +224,6 @@ export default function Contact() {
                     borderRadius: "12px",
                     textDecoration: "none",
                     transition: "all 0.2s ease",
-                    opacity: s.placeholder ? 0.6 : 1,
                   }}
                   onMouseEnter={(e) => {
                     (e.currentTarget as HTMLElement).style.borderColor = "#E63946";
@@ -256,7 +255,7 @@ export default function Contact() {
                         fontFamily: "var(--font-inter), Inter, sans-serif",
                       }}
                     >
-                      {s.placeholder ? "À renseigner" : s.handle}
+                      {s.handle}
                     </p>
                   </div>
                 </a>
