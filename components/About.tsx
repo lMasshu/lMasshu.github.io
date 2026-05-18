@@ -173,7 +173,7 @@ export default function About() {
                   fontFamily: "var(--font-inter), Inter, sans-serif",
                 }}
               >
-                Ma faiblesse (attachante)
+                Ma faiblesse
               </p>
               <p
                 style={{
