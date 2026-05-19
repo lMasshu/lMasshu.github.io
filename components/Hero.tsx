@@ -142,7 +142,7 @@ export default function Hero() {
             <strong style={{ color: "#1A1A2E", fontWeight: 600 }}>
               BUT Informatique
             </strong>{" "}
-            — Curieux, créatif, passionné.
+            - Curieux, créatif, passionné.
           </p>
 
           {/* Quote */}
@@ -164,7 +164,7 @@ export default function Hero() {
             &ldquo;Le progrès n&apos;est que l&apos;aboutissement des utopies.&rdquo;
             <br />
             <span style={{ fontSize: "0.8rem", fontWeight: 500, color: "#94A3B8", fontStyle: "normal", marginTop: "4px", display: "inline-block" }}>
-              — Oscar Wilde (écrivain irlandais, XIXe siècle)
+              - Oscar Wilde (écrivain irlandais, XIXe siècle)
             </span>
           </blockquote>
 
@@ -226,7 +226,7 @@ export default function Hero() {
           >
             {[
               { icon: "📍", text: "France" },
-              { icon: "🎓", text: "BUT Info — Année 2" },
+              { icon: "🎓", text: "BUT Info - Année 2" },
               { icon: "🔭", text: "Astronomie & Code" },
             ].map((chip) => (
               <span

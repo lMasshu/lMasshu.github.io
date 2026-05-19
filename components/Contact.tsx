@@ -111,7 +111,7 @@ export default function Contact() {
           }}
           className="contact-grid"
         >
-          {/* Left — info */}
+          {/* Left - info */}
           <div className="reveal reveal-left" style={{ display: "flex", flexDirection: "column", gap: "20px" }}>
             {/* Contact items */}
             {contactItems.map((item) => (
@@ -263,7 +263,7 @@ export default function Contact() {
             </div>
           </div>
 
-          {/* Right — contact form */}
+          {/* Right - contact form */}
           <div
             className="card reveal reveal-right"
             style={{ padding: "36px" }}

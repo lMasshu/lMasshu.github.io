@@ -16,19 +16,19 @@ export default function About() {
     },
     {
       year: "2023 - 2024",
-      title: "BUT Informatique — 1ère année",
+      title: "BUT Informatique - 1ère année",
       desc: "Début de mon parcours en informatique : immersion dans l'algorithmique, le développement web, le C et l'architecture système.",
       color: "#E63946",
     },
     {
       year: "2024 - 2026",
-      title: "BUT Informatique — 2ème année",
+      title: "BUT Informatique - 2ème année",
       desc: "Approfondissement technique : programmation orientée objet en Java, architecture MVC en PHP, gestion de bases de données et travail de projet en équipe.",
       color: "#E63946",
     },
     {
       year: "2026",
-      title: "Stage — Collectif du Solaire",
+      title: "Stage - Collectif du Solaire",
       desc: "Stage de fin de deuxième année (4ème semestre). Première expérience professionnelle. Intégration en entreprise et application des connaissances sur un projet réel.",
       color: "#E63946",
     },
@@ -55,7 +55,7 @@ export default function About() {
         </svg>
       ),
       title: "Cuisine",
-      desc: "Un art de la créativité et de la précision — deux qualités que j'applique aussi au code.",
+      desc: "Un art de la créativité et de la précision - deux qualités que j'applique aussi au code.",
     },
   ];
 
@@ -93,7 +93,7 @@ export default function About() {
               lineHeight: 1.7,
             }}
           >
-            Étudiant passionné, je suis venu à l&apos;informatique par curiosité — et j&apos;y suis resté par passion.
+            Étudiant passionné, je suis venu à l&apos;informatique par curiosité - et j&apos;y suis resté par passion.
           </p>
         </div>
 
@@ -183,7 +183,7 @@ export default function About() {
                   fontFamily: "var(--font-inter), Inter, sans-serif",
                 }}
               >
-                Je tends à vouloir tout comprendre en profondeur avant d&apos;agir — ce qui me rend parfois lent à démarrer, mais toujours solide dans l&apos;exécution.
+                Je tends à vouloir tout comprendre en profondeur avant d&apos;agir - ce qui me rend parfois lent à démarrer, mais toujours solide dans l&apos;exécution.
               </p>
             </div>
           </div>
@@ -254,7 +254,7 @@ export default function About() {
           </div>
         </div>
 
-        {/* Timeline — Mon parcours */}
+        {/* Timeline - Mon parcours */}
         <div className="card reveal">
           <h3
             style={{
